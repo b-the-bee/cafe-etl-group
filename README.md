@@ -13,6 +13,7 @@ Software written in Python to Extract, Transform, Load and Analyse data in AWS f
 ## Authors
 
 - [@b-the-bee - Sam B](https://github.com/b-the-bee)
+- [@Anas9071 - Anas A](https://github.com/Anas9071)
 - [@mara557 - Marko G](https://github.com/mara557)
 - [@keithu-data - Keith U](https://github.com/keithu-data)
 - [@mvchikolo - Muhammad V](https://github.com/mvchikolo)
