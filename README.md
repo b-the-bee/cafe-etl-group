@@ -88,6 +88,8 @@ Prerequisites
 AWS account with appropriate permissions to create and manage CloudFormation stacks.
 AWS CLI configured with your credentials.
 GitHub account with access to the repository where you want to store the infrastructure code.
+
+![Screenshot](infra/infrastructure.PNG)
 ### 1. Creating a CloudFormation Template
 #### Option A: Manually Creating a Template
 
@@ -191,6 +193,12 @@ $ python -m pytest
 ## Project Reflections
 
 How did your design go about meeting the project's requirements?
+
+
 How did you guarantee the project's requirements?
+
+
 If you had more time, what is one thing you would improve upon?
+
+
 What did you most enjoy implementing?
